@@ -170,39 +170,72 @@ _Wirkt etwas wie die 1M€ Version von unserer ersten App. Uff, Datenkrake. Die 
 - Installs: 100+
 
 ## Geschäftsmodell
+- Seitenprojekt der EWE
+- Unternehmensberatung (Unklar, was/wie das Kostet)? 
+> Wir helfen Dir zu handeln
+>Unternehmerisches CO2-Management zielt auf die Erfassung, Vermeidung und aktive Minderung relevanter CO2-Emissionen ab. Nutze ab sofort unsere Codyo Klima-App in Scope 2 und 3 Deines Unternehmens, um CO2-Daten einfacher zu erfassen oder Mitarbeiter spielend in den Prozess der Klimaneutralität zu involvieren. -- https://codyo.app/unternehmen/
 
 
 ## Funktionen
 
+- CO2-Fußabdruck berechnen
+- Aktivitäten tracken 
+    - man kann jedes mal wenn man etwas bewusst Umweltfreundlicherers gemacht hat dies als Aktivität eintragen 
+    - so gespartes CO2 wird aufsummiert 
+    - die Aktivität kann im Community-Tab veröffentlicht werden
+    - die so gesparten kgCO2eq können auch gegen ein selbst gesetztes Ziel gerechnet werden 
+    - 
+- Community Nachrichtenstrom der auch abgeschlossene Aktivitäten enthält 
+!['Nachrichtenstrom'](./Codyo/Screenshot_20201022_131152_de.codyo.app.jpg)
 
 ## Erscheinungsbild 
-
+- viele bunte (nicht standard) Icons
+- viele Illustrationen und Stock-Bilder 
+- aber sehr eindeutig App nicht Spiel 
 
 ## Online 
+- pflicht Accounterstellung bevor man loslegen kann, ohne das einem die App vorher erklärt, was sie ist 
 
-**Top USP: **
+**Top USP: Freundliches design?**
 
 # Eevie
 
 ## Info
-- url: 
-- App Name: 
-- Entwickelt von: 
+- url: https://www.eevie.io/
+- App Name: eevie
+- Entwickelt von: eevie UG / Humboldt (?)
 - Rating: 3.6 (36)
-- Installs: 
+- Installs: 1,000+
 
 ## Geschäftsmodell
 
+- Unternehmensberatung 
+>Impact Partners - reward employees for climate-action and maximises workforce co2 reduction while offsetting only unavoidable emissions
+
+>eevie - provides platform, services and tools to track and reward impact progress
+
+>EMPLOYEES - are rewarded with trees for working together to change their habits and reduce their carbon footprint -- https://www.eevie.io/en/business
+- Schon wieder Bäume pflanzen
 
 ## Funktionen
 
+- Ermittelt CO2 Fußabdruck 
+- habits
+    - man kann verschiedene vorgeschlagene Gewohnheiten wählen (die App schlägt vor 3 stück zu verfolgen)
+    - man wird regelmäßig an diese erinnert 
+    - und es zeigt an, wie weit man damit den CO2-Fußabdruck verringert hat
+- Offset 
+- Communtiy (konnte ich noch nicht testen) 
 
 ## Erscheinungsbild 
-
+- ziemlich App-standard mit etwas seltsamen Headern
+- die optisch spannenste Seite (Offset) ruckelt auf meinem Handy
 
 ## Online 
+- Optionaler Account 
+- kann sich mit Freunden verbinden und deren Fortschritt sehen
 
-**Top USP: **
+**Top USP: Partnerschaft mit Carbon Offset Projekten**
 <!---
 # Blank
 
