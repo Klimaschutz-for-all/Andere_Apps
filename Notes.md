@@ -266,3 +266,37 @@ _Wirkt etwas wie die 1M€ Version von unserer ersten App. Uff, Datenkrake. Die 
 <a href="Screenshots.html">Weitere Screenshots siehe screenshots</a>
 
 </div>
+
+
+# Installs von ausschließlich umweltfokussierten Apps (Android, also kann man optimistisch alles mal 2 nehmen :P) 
+
+## Klimakompass
+- Rating 3.8 (70)
+- Installs: 10.000+
+
+## Changers
+- Rating: 3.2
+- Installs: 10,000+
+
+## North
+- Rating: 4.7 (56)
+- Installs: 1,000+
+
+## Codyo
+
+- Rating: 4.6 (9)
+- Installs: 100+
+
+## Eevie
+- Rating: 3.6 (36)
+- Installs: 1,000+
+
+## Life Time Value (LTV) eines Nutzers
+- 49% aller Nutzer_innen geben überhaupt Geld in F2P Spielen aus 'Only 49% of players even make a single purchase in a game.'(@see https://www.extremetech.com/extreme/177409-only-0-15-of-players-account-for-50-of-free-to-play-game-revenue)
+- Falls wir ~ 1€ von 49% der Nutzer_innen kriegen können hat eine App-Installation einen LTV von 0.50 € 
+mit einzelnen Microtransactions werden wir also nicht weit kommen
+- Falls wir einen 'Seasonpass' artiges Angebot haben, können wir das vervielfachen, falls wir Nutzer_innen langfristig halten können
+- einige Nutzer_innen sind bereit recht viel auszugebe
+    - also gehen wir Wahlfischen?
+    
+Um 200.000€/Jahr zu erzielen brauchen wir also 400.000 aktive User
